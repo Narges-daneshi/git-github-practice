@@ -6,3 +6,4 @@ This repository is for practicing Git and GitHub collaboration.
 - Git basics
 - GitHub workflow
 - Pull Requests
+- Git branching
