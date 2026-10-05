@@ -17,3 +17,16 @@ Fork → Clone → Branch → Commit → Push → Pull RequesFork → Clone → 
 - GitHub
 - Branching
 - Pull Requests
+
+
+## Calculator
+
+A simple calculator that supports basic arithmetic.
+
+- Addition
+- Subtraction
+
+### Example
+
+- 2 + 3 = 5
+- 5 - 2 = 3
